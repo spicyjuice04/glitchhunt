@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
+  "id": "com.glitchhunting",
+  "name": "Glitchhunting and Extras",
   "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "author": "spicyjuice04",
+  "description": "This is a mod where I intend to learn more about this games code. Since I want to learn C++, I still want to limit myself with the use of ai and instead intend to try on my own. I want to add a bunch of random shit toggles and adjustments that modify the code in a way that could help for glitchhunting potentially. Using the modding api it should be way easier than to build the whole game every time and only running it through dolphin emulator."
 }
